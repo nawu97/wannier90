@@ -48,3 +48,7 @@ Starting a new Wannier90 calculation ...
  FGT.amn has not the right number of projections
 
 ```
+```
+param_get_projections: too few projection functions defined
+
+```
