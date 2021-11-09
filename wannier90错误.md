@@ -34,3 +34,17 @@ task #         0
 
 ```
 仔细输进去，一位也不要有误差！
+
+## 4.
+```
+
+Starting a new Wannier90 calculation ...
+
+
+ Reading overlaps from FGT.mmn    :  Created on  9Nov2021 at 11: 1:43
+
+ Reading projections from FGT.amn :  Created on  9Nov2021 at 11: 0:56
+ Exiting.......
+ FGT.amn has not the right number of projections
+
+```
